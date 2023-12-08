@@ -1,2 +1,3 @@
-# DexterDDoS
+
+# JohnnyDDoS
 Denial of service
