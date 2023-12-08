@@ -891,20 +891,7 @@ def logo():
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " DDos")
         
     print('''
- ✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫
 
-                     ::: AVVISO !!! :::
-
-✎ L'uso di questo strumento per attaccare gli obiettivi 
-senza il consenso reciproco è illegale.
-E' responsabilità dell'utente finale obbedire 
-a tutte le leggi locali, 
-statali e federali applicabili.
-Gli sviluppatori non si assumono alcuna responsabilità
-e non sono responsabili per qualsiasi uso improprio
- o danno causato da questo programma.
- ...꙳  Grazie e buon uso! ꙳...
-        :::ElaNyx03:::
 ✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫✫
 ⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⡀
 ⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⡸⠱⡀
@@ -958,6 +945,18 @@ e non sono responsabili per qualsiasi uso improprio
 ██░▀▀░██▄▄██▄██▄█▄██▄█▄██▄█▀▀▀▄██░▀▀░██░▀▀░██▄▄███░▀▀▀░██
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
+                     ::: AVVISO !!! :::
+
+✎ L'uso di questo strumento per attaccare gli obiettivi 
+senza il consenso reciproco è illegale.
+E' responsabilità dell'utente finale obbedire 
+a tutte le leggi locali, 
+statali e federali applicabili.
+Gli sviluppatori non si assumono alcuna responsabilità
+e non sono responsabili per qualsiasi uso improprio
+ o danno causato da questo programma.
+ ...꙳  Grazie e buon uso! ꙳...
+        :::ElaNyx03:::
                                 
 ''')
     print('''
