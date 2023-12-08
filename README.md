@@ -13,7 +13,9 @@ DDoS (Denial of service)
   <img src="https://media1.tenor.com/m/_7r8RXryt3QAAAAC/python-powered.gif" width="100px">  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-
+  <p align="center">
+  <img src="Screenshot 2023-12-08 201340.png" width="500px"> 
+</p>
 
 
 
