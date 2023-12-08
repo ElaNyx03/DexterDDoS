@@ -10,11 +10,59 @@
 DDoS (Denial of service)
 è un tipo di attacco informatico che mira a interrompere i servizi di rete di un sito web o di un server, sovraccaricandoli con un grande volume di traffico di rete. Questo tipo di attacco può causare problemi alle funzionalità del sito web o addirittura metterlo completamente offline.
 
-  <img src="https://media1.tenor.com/m/_7r8RXryt3QAAAAC/python-powered.gif" width="100px"> 
+  <img src="https://media1.tenor.com/m/_7r8RXryt3QAAAAC/python-powered.gif" width="100px">  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
 
 
+
+
+---
+
+
+#  <img src="https://lh3.googleusercontent.com/fwR7dDeY3PggbRC221Va9DBEsoqESdr0dmp5lBDxs-Ug3CrdG8ueW0Irt5NujqblWMs" width="100px"> tutorial installazione su termux
+
+    apt update
+
+    apt upgrade -y
+
+    pkg install git -y
+
+    pkg install python -y
+
+    pip install scapy
+
+    git clone https://github.com/ElaNyx03/SMS-Anonime.git
+
+    ls
+
+    cd JohnnyDDoS.py
+    
+    python3 JohnnyDDoS.py
+
+
+ 
+#  <img src="https://p7.hiclipart.com/preview/93/966/567/shell-script-command-line-interface-unix-shell-bash-shell.jpg" width="70px"> tutorial installazione linux
+
+    sudo apt update
+
+    sudo apt upgrade -y
+
+    sudo apt install git -y
+
+    sudo apt install python3 -y 
+
+    sudo apt-get install python3-scapy
+    
+    git clone  https://github.com/ElaNyx03/SMS-Anonime.git
+
+    ls
+    
+    cd JohnnyDDoS.py
+    
+    python3 JohnnyDDoS.py
+
+---
 
 
 
