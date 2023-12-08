@@ -42,7 +42,7 @@ DDoS (Denial of service)
 
 
  
-#  <img src="https://p7.hiclipart.com/preview/93/966/567/shell-script-command-line-interface-unix-shell-bash-shell.jpg" width="70px"> tutorial installazione linux
+#  <img src="https://media.tenor.com/oz87QI5ZSScAAAAj/pinguin.gif" width="70px"> tutorial installazione linux
 
     sudo apt update
 
