@@ -7,8 +7,8 @@
 <h4>::: JohnnyDDoS :::</h4>
 </div>
 
-Denial of service
-
+DDoS (Denial of service)
+è un tipo di attacco informatico che mira a interrompere i servizi di rete di un sito web o di un server, sovraccaricandoli con un grande volume di traffico di rete. Questo tipo di attacco può causare problemi alle funzionalità del sito web o addirittura metterlo completamente offline.
 
   <img src="https://media1.tenor.com/m/_7r8RXryt3QAAAAC/python-powered.gif" width="100px"> 
 
